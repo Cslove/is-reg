@@ -1,4 +1,4 @@
-# reg-exp
+# is-reg
 > Regular expressions usually used
 > 常用的正则特殊需求表达式判断
 
